@@ -32,6 +32,7 @@ gem 'jbuilder', '~> 2.5'
 
 # Added Gems
 
+gem 'bcrypt', '~> 3.1', '>= 3.1.12'
 gem 'bootstrap', '~> 4.1', '>= 4.1.3'
 gem 'devise', '~> 4.5'
 
